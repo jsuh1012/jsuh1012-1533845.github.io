@@ -1,0 +1,44 @@
+body {
+	background-color: grey;
+}
+
+div {
+	background-color: purple;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	background-color: purple;
+}
+
+#Header {
+	border: solid 8px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#LeftNav {
+	border: solid 8px black;
+	width: 700px;
+	float: left;
+	padding-bottom: 20px;
+}
+
+#Content {
+	text-align: center;
+	border: solid 8px black;
+	width: 700px;
+	padding: 50px;
+	background-color: ;
+}
+
+#Footer {
+	border: solid 8px black;
+}
