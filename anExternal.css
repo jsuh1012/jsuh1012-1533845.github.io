@@ -1,0 +1,38 @@
+#first {
+	font-family: Georgia, Garamond, serif;
+	font-size: 15pt;
+	border: 13px solid green;
+	border-radius: 20px;
+}
+
+#second {
+	font-family: Arial;
+	font-size: 25pt;
+	border: 10px dotted red;
+	border-radius: 20px;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+	float: right;
+}
+
+#block {
+	background-image: url("https://image.spreadshirtmedia.net/image-server/v1/compositions/22839312/views/1,width=300,height=300,version=1478003241/smiley-smile-men-s-t-shirt.jpg");
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	top: 50%;
+	vertical-align: middle;
+	margin: 20px;
+	float: left;
+	line-height: 400px;
+}
+
+#centered {
+	text-align: center;
+	top: 50%;
+	vertical-align: middle;
+	line-height: 400px;
+}
